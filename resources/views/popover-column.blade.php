@@ -34,7 +34,7 @@
     @endif
 
     <div
-        class="relative w-full fi-popover-trigger cursor-pointer flex items-center gap-2"
+        class="text-sm relative w-full fi-popover-trigger cursor-pointer flex items-center gap-2"
         @if($getTrigger === 'hover')
             @pointerenter="$refs.panel.open"
         @else
@@ -46,7 +46,7 @@
         @if($getIcon)
             <x-filament::icon
                 :icon="$getIcon"
-                class="h-5 w-5 text-gray-500 dark:text-gray-400"
+                class="h-4 w-4 text-gray-500 dark:text-gray-400"
             />
         @endif
     </div>
