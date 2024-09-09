@@ -17,7 +17,7 @@ Popover (tippyjs) with custom content in tables and infolist
 ## More Details
 **✨ to learn more about Popover, please visit:**
 
-- [Discord](https://discord.com/channels/883083792112300104/1191457684856246353)
+- [Discord](https://discord.com/channels/883083792112300104/1282752938107998218)
 - [Docs](https://larazeus.com/docs/popover)
 - [Github](https://github.com/lara-zeus/popover)
 - [Demo](https://demo.larazeus.com/admin/components-demo/popover)
